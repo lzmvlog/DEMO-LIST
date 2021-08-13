@@ -49,7 +49,7 @@
         <dependency>
             <groupId>com.jfinal</groupId>
             <artifactId>jfinal</artifactId>
-            <version>4.8</version>
+            <version>4.9.11</version>
         </dependency>
 
         <!-- jfinal 3.5 之前 如果需要参数注入功能则需要加上这个依赖-->
